@@ -4,7 +4,7 @@ This project is a frontend-only MVP (Minimum Viable Product) for an HCI Dashboar
 
 ## Key Features
 
-- **Static/Dummy Data Dashboards**
+- **Static Data Dashboards**
   - Pending Work Tracker (Pie Chart)
   - Performance Improvement Analysis (Line Chart)
   - Completed Work Overview (Stacked Bar Chart)
@@ -13,7 +13,7 @@ This project is a frontend-only MVP (Minimum Viable Product) for an HCI Dashboar
   - Project Success/Failure Comparison (Comparative Bar Chart)
 
 - **Interactive Chat System (UI Only)**
-  - Chat UI Layout with dummy messages
+  - Chat UI Layout with sample messages
   - Private vs. Group Tabs
   - Message Input Field (visual only)
   - Tagged Notifications
@@ -79,8 +79,4 @@ This MVP demonstrates:
 - Usability Testing
 - Initial Design Iterations
 
-All data is static/dummy data for demonstration purposes only.# hci_webapp
-# hci_webapp
-# hci_webapp
-# hci_webapp
-# hci_webapp
+All data is static demonstration data for presentation purposes only.
